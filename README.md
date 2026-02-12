@@ -39,9 +39,11 @@ The workflow includes data exploration, model training, interpretability analysi
 
 ---
 
-## Requirements
+Complete it cleanly and professionally like this:
 
-Recommended environment:
+---
+
+## Recommended environment:
 
 * Python 3.9+
 * scikit-learn
@@ -51,6 +53,40 @@ Recommended environment:
 * numpy
 * shap
 * matplotlib
+* seaborn
+
+To install all dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+To run the notebooks:
+
+1. Clone the repository:
+
+```
+git clone https://github.com/Amirtesh/Ferroptosis-Predictor.git
+cd Ferroptosis-Predictor
+```
+
+2. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+3. Launch Jupyter Notebook:
+
+```
+jupyter notebook
+```
+
+4. Open:
+
+* `model_training.ipynb` to reproduce training and evaluation
+* `fp_exploration.ipynb` for fingerprint interpretation and enrichment analysis
+* `Model-Interpretation.ipynb` to reproduce the interpretability analysis
 
 ---
 
