@@ -86,7 +86,6 @@ jupyter notebook
 
 * `model_training.ipynb` to reproduce training and evaluation
 * `fp_exploration.ipynb` for fingerprint interpretation and enrichment analysis
-* `Model-Interpretation.ipynb` to reproduce the interpretability analysis
 
 ---
 
