@@ -1,0 +1,26 @@
+Drug,Smiles
+Erastin,CCOC1=CC=CC=C1N2C(=O)C3=CC=CC=C3N=C2C(C)N4CCN(CC4)C(=O)COC5=CC=C(C=C5)Cl
+sulfasalazine,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O
+sorafenib,CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F
+glutamate,C(CC(=O)O)[C@@H](C(=O)O)N
+lanperisone,C[C@H](CN1CCCC1)C(=O)C2=CC=C(C=C2)C(F)(F)F
+RSL3,COC(=O)[C@H]1CC2C([C@@H](N1C(=O)CCl)C3=CC=C(C=C3)C(=O)OC)NC4=CC=CC=C24
+ML162,COC1=C(C=C(C=C1)N(C(C2=CC=CS2)C(=O)NCCC3=CC=CC=C3)C(=O)CCl)Cl
+ML210,CC1=C(C(=NO1)C(=O)N2CCN(CC2)C(C3=CC=C(C=C3)Cl)C4=CC=C(C=C4)Cl)[N+](=O)[O-]
+FIN56,C1CCC(CC1)NS(=O)(=O)C2=CC3=C(C=C2)C4=C(C3=NO)C=C(C=C4)S(=O)(=O)NC5CCCCC5
+withaferin,CC1=C(C(=O)O[C@H](C1)[C@@H](C)[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3C[C@@H]5[C@]6([C@@]4(C(=O)C=C[C@@H]6O)C)O5)C)CO
+Artesunate,C[C@@H]1CC[C@H]2[C@H]([C@@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)OC(=O)CCC(=O)O)C
+artemisinin,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C
+siramesine,C1CN(CCC12C3=CC=CC=C3CO2)CCCCC4=CN(C5=CC=CC=C54)C6=CC=C(C=C6)F
+lapatinib,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+salinomycin,CC[C@H]([C@H]1CC[C@@H]([C@@H](O1)[C@@H](C)[C@@H]([C@H](C)C(=O)[C@H](CC)[C@@H]2[C@H](C[C@H]([C@]3(O2)C=C[C@H]([C@@]4(O3)CC[C@@](O4)(C)[C@H]5CC[C@@]([C@@H](O5)C)(CC)O)O)C)C)O)C)C(=O)O
+ferumoxytol,[O-2].[O-2].[O-2].[O-2].[Fe+2].[Fe+3].[Fe+3]
+cisplatin,N.N.Cl[Pt]Cl
+Ferrostatin-1,CCOC(=O)C1=CC(=C(C=C1)NC2CCCCC2)N
+Liproxstatin-1,C1CNCCC12C(=NCC3=CC(=CC=C3)Cl)NC4=CC=CC=C4N2
+vitamin  E,CC1=C(C2=C(CC[C@@](O2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C(=C1O)C)C
+CoQ10,CC1=C(C(=O)C(=C(C1=O)OC)OC)C/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CCC=C(C)C
+UAMC-3203,C1CCC(CC1)NC2=C(C=C(C=C2)S(=O)(=O)NCCN3CCNCC3)NCC4=CC=CC=C4
+Deferoxamine,CC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCN)O)O)O
+deferiprone,CC1=C(C(=O)C=CN1C)O
+clioquinol,C1=CC2=C(C(=C(C=C2Cl)I)O)N=C1
