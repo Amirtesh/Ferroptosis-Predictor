@@ -38,9 +38,6 @@ The workflow includes data exploration, model training, interpretability analysi
   Project documentation (this file).
 
 ---
-
-Complete it cleanly and professionally like this:
-
 ---
 
 ## Recommended environment:
